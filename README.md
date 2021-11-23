@@ -1,17 +1,32 @@
 # Name : Nofəl Salahov, NickName: Will or DR.MadWill
 
-### Programing way
-  - Direction --> Full Stack Developer
-  - The languages I use :
-    - Python
-      - Flask
-    - C#
-    - JavaScript
-      - HTML
-      - Css
-        - Boostrap
-      - Scss
-     
+<img src="https://i.postimg.cc/GpGTg6Lh/learncode.gif" align="right" >
+
+<font align="left"  color="gray"><h2>Full Stack Developer</h2>
+
+<h4 align="left"> <ul>
+  <li>🔭 I’m currently working at Coding.</li>
+  <li>The languages I use : </li>
+   <ul>
+   <li>Python</li>
+      <ul><li> Flask</li></ul>
+   <li>C#</li>
+   <li>JavaScript
+   <ul>
+     <li>HTML</li>
+     <li>Css
+       <ul><li>Boostrap</li></ul>
+     </li>
+     <li>Scss</li>
+    </ul>
+
+</ul>
+
+</h4><font/>
+
+
+
+
 
 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DrMadWill&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
