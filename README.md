@@ -6,18 +6,18 @@
 
 <h4 align="left"> <ul>
   <li>🔭 I’m currently working at Coding.</li>
-  <li>The languages I use : </li>
+  <li>I use : </li>
    <ul>
-   <li>Python</li>
-   <li>C#</li>
-   <li>JavaScript
-   <ul>
-     <li>HTML</li>
-     <li>Css
-       <ul><li>Boostrap</li></ul>
-     </li>
-     <li>Scss</li>
-    </ul>
+   <li><a href="https://github.com/DrMadWill/PragmatechCsharpProject">C#</a></li>
+   <li><a href="https://github.com/DrMadWill/PragmatechFoundationProject">Python</a></li>
+   <li><a href="https://github.com/DrMadWill/JavaScript">JavaScript</a>
+   <ul><li><a href="https://github.com/DrMadWill/JavaScript">JavaScript</a></ul></li>
+   <li>HTML</li>
+   <li>Css
+     <ul><li>Boostrap</li></ul>
+   </li>
+   <li>Scss</li>
+   <li><a href="https://github.com/DrMadWill/GitHub">GitHub</a></li>
 
 </ul>
 
