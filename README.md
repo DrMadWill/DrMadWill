@@ -11,7 +11,7 @@
    <li><a href="https://github.com/DrMadWill/PragmatechCsharpProject">C#</a></li>
    <li><a href="https://github.com/DrMadWill/PragmatechFoundationProject">Python</a></li>
    <li><a href="https://github.com/DrMadWill/JavaScript">JavaScript</a>
-   <ul><li><a href="https://github.com/DrMadWill/JavaScript">JavaScript</a></ul></li>
+   <ul><li><a href="https://github.com/DrMadWill/JavaScript">JQuery</a></ul></li>
    <li>HTML</li>
    <li>Css
      <ul><li>Boostrap</li></ul>
