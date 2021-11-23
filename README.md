@@ -9,7 +9,6 @@
   <li>The languages I use : </li>
    <ul>
    <li>Python</li>
-      <ul><li> Flask</li></ul>
    <li>C#</li>
    <li>JavaScript
    <ul>
