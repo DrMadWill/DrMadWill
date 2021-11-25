@@ -36,4 +36,11 @@
  <br/>
     <a href="https://github.com/DrMadWill"><img alt="DrMadWill's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrMadWill&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
   <br/>
+  
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/nofel.salahov.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aydan samedova" height="30" width="40" /></a>
+<a href="https://www.instagram.com/salahov__nofel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aydanmad_" height="30" width="40" /></a>
+
+
  
