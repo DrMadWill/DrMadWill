@@ -31,6 +31,7 @@
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DrMadWill&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  --- 
+#### :green_book:  Weekly Status
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
