@@ -26,25 +26,19 @@
 
 
 
-
-
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DrMadWill&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- --- 
-#### :green_book:  Weekly Status
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madwill)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://github.com/DrMadWill"><img alt="DrMadWill's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrMadWill&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align='right' /></a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DrMadWill&langs_count=5&theme=tokyonight)]()
 
   
 
  
- <br/>
-    <a href="https://github.com/DrMadWill"><img alt="DrMadWill's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrMadWill&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
-  <br/>
+
+
   
  <h3 align="left">Connect with me:</h3>
  
