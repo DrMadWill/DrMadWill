@@ -1,6 +1,6 @@
 # Name : Nofəl Salahov, NickName: Will or DR.MadWill
 
-<img src="https://i.postimg.cc/GpGTg6Lh/learncode.gif" align="right" >
+<img src="https://i.postimg.cc/9F9JRKt6/full-stack-developer.gif" align="right" >
 
 <font align="left"  color="gray"><h2>Full Stack Developer</h2>
 
