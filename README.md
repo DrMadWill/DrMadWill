@@ -31,7 +31,11 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DrMadWill&langs_count=5&theme=tokyonight)]()
 
   
-
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrMadWill&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
  
 
 
