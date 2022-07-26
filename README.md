@@ -8,16 +8,10 @@
   <li>🔭 I’m currently working at Coding.</li>
   <li>📚 Learning new things, self driven, hard working and friendly.</li>
   <li>❤️ I love to research.</li>
-  <li>Some research code location : </li>
-   <ul>
-   <li><a href="https://github.com/DrMadWill/PragmatechCsharpProject">C#</a></li>
-   <li><a href="https://github.com/DrMadWill/PragmatechFoundationProject">Python</a></li>
-   <li><a href="https://github.com/DrMadWill/JavaScript">JavaScript</a>
-   <li><a href="https://github.com/DrMadWill/GitHub">GitHub</a></li>
-
 </ul>
 
 </h4></font>
+<div></div>
 
 ### GitHub Stats : <img src="https://media2.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif?cid=ecf05e47vzman9unsn9rxma2kkusaqr3zu4jwnc9p26ekw2a&rid=giphy.gif&ct=g" alt="ajax" width="60" height="60"/>
 ***
