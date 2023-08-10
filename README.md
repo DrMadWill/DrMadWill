@@ -1,4 +1,4 @@
-# Name : Nofəl Salahov, NickName:DR.MadWill
+
 
 <img src="https://i.postimg.cc/9F9JRKt6/full-stack-developer.gif" align="right" >
 
