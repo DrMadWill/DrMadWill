@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/9F9JRKt6/full-stack-developer.gif" align="right" >
 
-<font align="left"  color="gray"><h2>Full Stack Developer</h2>
+<font align="left"  color="gray"><h2>Software Developer</h2>
 
 <h4 align="left"> <ul>
   <li>🔭 I’m currently working at Coding.</li>
