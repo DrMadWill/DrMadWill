@@ -16,7 +16,6 @@
 ### GitHub Stats : <img src="https://media2.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif?cid=ecf05e47vzman9unsn9rxma2kkusaqr3zu4jwnc9p26ekw2a&rid=giphy.gif&ct=g" alt="ajax" width="60" height="60"/>
 ***
 
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DrMadWill&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 
